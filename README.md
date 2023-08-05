@@ -27,13 +27,13 @@ To run this project, you will need to add the following environment variables to
 Clone the project
 
 ```bash
-  git clone https://link-para-o-projeto
+  git clone https://github.com/FransergioDev/curso-redis-dio
 ```
 
 Enter the project directory
 
 ```bash
-  cd my-project
+  cd curso-redis-dio
 ```
 
 Run the command below to install the project dependencies
